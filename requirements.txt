@@ -1,0 +1,6 @@
+openai
+python-dotenv
+fastapi
+uvicorn
+pytest
+pip install -r requirements.txt
